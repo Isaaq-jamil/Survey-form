@@ -1,0 +1,50 @@
+label {
+  display: block;
+  margin: 0.5rem 0;
+font-size:40px;
+color:white;
+}
+
+.heading{
+font:100px Arial; 
+text-align:center;
+text-decoration:underline;
+color: white;
+}
+
+body{
+text-align:center}
+
+h1{font:60px Arial;
+color: white;
+text-decoration:underline;
+}
+
+form{margin:0 auto;
+max-width:700px;
+min-width:100px;
+}
+
+fieldset{
+border:10px white solid;
+border-radius:10px;
+}
+
+.inline{vertical-align:middle;
+width:30%;}
+
+.inline2{
+vertical-align:middle;
+width:20%;
+}
+
+.inline3{
+vertical-align:middle;
+}
+
+.button{
+width:40%;
+font-size:30px;
+}
+
+
